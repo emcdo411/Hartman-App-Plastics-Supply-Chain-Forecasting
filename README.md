@@ -75,7 +75,7 @@ The app is built using **Shiny** in R and utilizes a combination of **ggplot2**,
 # Full R code for the Shiny App (included in previous responses)
 ```
 
-For the complete source code and deployment instructions, check out the [GitHub repository](https://github.com/username/Hartman-App-Plastics-Supply-Chain-Forecasting).
+For the complete source code and deployment instructions, check out the [https://github.com/emcdo411/Hartman-App-Plastics-Supply-Chain-Forecasting/blob/main/README.md](https://github.com/username/Hartman-App-Plastics-Supply-Chain-Forecasting).
 
 ---
 
